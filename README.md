@@ -1,2 +1,3 @@
-# TinyTalks
-Microblogging App is an open-source microblogging platform that allows users to share short and concise posts with a global community. It's built with simplicity, scalability, and customization in mind.
+Designed an adaptive voice assistant leveraging the Web Speech API for real-time speech-to-text/text-to-speech conversion.
+Engineered a hybrid command system executing 10+ native browser actions (app launches, time/date, web navigation) while 
+dynamically handling unlimited queries via Google Search integration.
